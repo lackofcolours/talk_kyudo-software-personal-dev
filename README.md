@@ -1,6 +1,6 @@
 # Shin, Zen, Bi
 
-A Kyudo approach to software and personal development
+Truth, Zen, and Beauty. A Kyudo approach to software and personal development.
 
 As a Japanese archery practitioner and Front End Developer, I find a lot of shared core principles between the two.
 
